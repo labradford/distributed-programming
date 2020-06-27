@@ -1,0 +1,7 @@
+C:\UCSD\distributedprogramming\Lab1Service\Lab1Service\bin\Lab1Service.dll.config
+C:\UCSD\distributedprogramming\Lab1Service\Lab1Service\bin\Lab1Service.dll
+C:\UCSD\distributedprogramming\Lab1Service\Lab1Service\bin\Lab1Service.pdb
+C:\UCSD\distributedprogramming\Lab1Service\Lab1Service\obj\Debug\Lab1Service.csprojAssemblyReference.cache
+C:\UCSD\distributedprogramming\Lab1Service\Lab1Service\obj\Debug\Lab1Service.csproj.CoreCompileInputs.cache
+C:\UCSD\distributedprogramming\Lab1Service\Lab1Service\obj\Debug\Lab1Service.dll
+C:\UCSD\distributedprogramming\Lab1Service\Lab1Service\obj\Debug\Lab1Service.pdb
