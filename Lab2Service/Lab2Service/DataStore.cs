@@ -13,6 +13,32 @@ namespace Lab2Service
 	{
 		private const string FILENAME = "PersonData.xml";
 		private static PersonList m_Data;
+		
+		static DataStore()
+
+		{
+
+			ClearData();
+
+		}
+
+
+		public static void ClearData()
+
+		{
+
+			string path = Path.Combine(Path.GetTempPath(), FILENAME);
+
+			if (File.Exists(path))
+
+			{
+
+				File.Delete(path);
+
+			}
+
+		}
+
 
 		/// <summary>
 		/// Serializes an object of type T to a string using the DataContractSerializer
