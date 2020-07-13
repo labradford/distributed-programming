@@ -7,6 +7,7 @@ using System.Runtime.Serialization;
 using SharedLib;
 using Utilities;
 using System.ServiceModel;
+using System.Net;
 
 namespace StockClient
 {
@@ -71,7 +72,6 @@ namespace StockClient
 
         public static void AddStock()
         {
-            // Console.Clear();
             string symbol = ConsoleHelpers.ReadString("Enter stock symbol: ");
             decimal price = ConsoleHelpers.ReadDecimal("Enter initial price: ");
             try
@@ -88,7 +88,6 @@ namespace StockClient
 
         public static void GetStockQuote()
         {
-            // Console.Clear();
             string symbol = ConsoleHelpers.ReadString("Enter stock symbol: ");
             try
             {
@@ -103,7 +102,6 @@ namespace StockClient
 
         public static void MonitorStocks()
         {
-            // Console.Clear();
             Console.WriteLine("Stock Monitoring has started. Press <ENTER> to stop.");
             try
             {
