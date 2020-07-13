@@ -1,0 +1,10 @@
+C:\UCSD\distributedprogramming\Lab3\StockServiceLib\bin\Debug\StockServiceLib.dll.config
+C:\UCSD\distributedprogramming\Lab3\StockServiceLib\bin\Debug\StockServiceLib.dll
+C:\UCSD\distributedprogramming\Lab3\StockServiceLib\bin\Debug\StockServiceLib.pdb
+C:\UCSD\distributedprogramming\Lab3\StockServiceLib\bin\Debug\SharedLib.dll
+C:\UCSD\distributedprogramming\Lab3\StockServiceLib\bin\Debug\SharedLib.pdb
+C:\UCSD\distributedprogramming\Lab3\StockServiceLib\obj\Debug\StockServiceLib.csprojAssemblyReference.cache
+C:\UCSD\distributedprogramming\Lab3\StockServiceLib\obj\Debug\StockServiceLib.csproj.CoreCompileInputs.cache
+C:\UCSD\distributedprogramming\Lab3\StockServiceLib\obj\Debug\StockServiceLib.csproj.CopyComplete
+C:\UCSD\distributedprogramming\Lab3\StockServiceLib\obj\Debug\StockServiceLib.dll
+C:\UCSD\distributedprogramming\Lab3\StockServiceLib\obj\Debug\StockServiceLib.pdb

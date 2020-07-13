@@ -1,0 +1,13 @@
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\bin\Debug\StockServiceHost.exe.config
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\bin\Debug\StockServiceHost.exe
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\bin\Debug\StockServiceHost.pdb
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\bin\Debug\SharedLib.dll
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\bin\Debug\StockServiceLib.dll
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\bin\Debug\SharedLib.pdb
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\bin\Debug\StockServiceLib.pdb
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\bin\Debug\StockServiceLib.dll.config
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\obj\Debug\StockServiceHost.csprojAssemblyReference.cache
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\obj\Debug\StockServiceHost.csproj.CoreCompileInputs.cache
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\obj\Debug\StockServiceHost.csproj.CopyComplete
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\obj\Debug\StockServiceHost.exe
+C:\UCSD\distributedprogramming\Lab3\StockServiceHost\obj\Debug\StockServiceHost.pdb
