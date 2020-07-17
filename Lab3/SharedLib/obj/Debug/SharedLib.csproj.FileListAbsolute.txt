@@ -1,6 +1,0 @@
-C:\UCSD\distributedprogramming\Lab3\SharedLib\bin\Debug\SharedLib.dll
-C:\UCSD\distributedprogramming\Lab3\SharedLib\bin\Debug\SharedLib.pdb
-C:\UCSD\distributedprogramming\Lab3\SharedLib\obj\Debug\SharedLib.csprojAssemblyReference.cache
-C:\UCSD\distributedprogramming\Lab3\SharedLib\obj\Debug\SharedLib.csproj.CoreCompileInputs.cache
-C:\UCSD\distributedprogramming\Lab3\SharedLib\obj\Debug\SharedLib.dll
-C:\UCSD\distributedprogramming\Lab3\SharedLib\obj\Debug\SharedLib.pdb

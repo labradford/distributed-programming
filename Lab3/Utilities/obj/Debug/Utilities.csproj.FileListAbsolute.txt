@@ -1,6 +1,0 @@
-C:\UCSD\distributedprogramming\Lab3\Utilities\bin\Debug\Utilities.dll
-C:\UCSD\distributedprogramming\Lab3\Utilities\bin\Debug\Utilities.pdb
-C:\UCSD\distributedprogramming\Lab3\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
-C:\UCSD\distributedprogramming\Lab3\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
-C:\UCSD\distributedprogramming\Lab3\Utilities\obj\Debug\Utilities.dll
-C:\UCSD\distributedprogramming\Lab3\Utilities\obj\Debug\Utilities.pdb
