@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transactions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <transaction xsi:type="Credit">
+    <date>2000-10-01T00:00:00-07:00</date>
+    <description>IRIS</description>
+    <amount>500.0</amount>
+    <creditType>Wire</creditType>
+  </transaction>
+  <transaction xsi:type="Credit">
+    <date>2000-10-03T00:00:00-07:00</date>
+    <description>Important</description>
+    <amount>1000.0</amount>
+    <creditType>Cash</creditType>
+  </transaction>
+  <transaction xsi:type="Credit">
+    <date>2000-10-04T00:00:00-07:00</date>
+    <description>Declan shut up</description>
+    <amount>400.0</amount>
+    <creditType>MoneyOrder</creditType>
+  </transaction>
+  <transaction xsi:type="Debit">
+    <date>2000-10-06T00:00:00-07:00</date>
+    <description>electric bill</description>
+    <amount>46.25</amount>
+    <debitType>Check</debitType>
+    <checkNo>421</checkNo>
+    <fee>0.0</fee>
+  </transaction>
+  <transaction xsi:type="Credit">
+    <date>2000-10-10T00:00:00-07:00</date>
+    <description>Declands' alimony</description>
+    <amount>666.0</amount>
+    <creditType>MoneyOrder</creditType>
+  </transaction>
+  <transaction xsi:type="Debit">
+    <date>2000-10-10T00:00:00-07:00</date>
+    <description>For decklan</description>
+    <amount>123.0</amount>
+    <debitType>Check</debitType>
+    <checkNo>420</checkNo>
+    <fee>0.0</fee>
+  </transaction>
+  <transaction xsi:type="Credit">
+    <date>2000-10-16T00:00:00-07:00</date>
+    <description>credit to acct</description>
+    <amount>15.26</amount>
+    <creditType>MoneyOrder</creditType>
+  </transaction>
+  <transaction xsi:type="Debit">
+    <date>2000-10-16T00:00:00-07:00</date>
+    <description>atm w/d</description>
+    <amount>20.00</amount>
+    <debitType>ATM</debitType>
+    <checkNo>0</checkNo>
+    <fee>5.00</fee>
+  </transaction>
+  <transaction xsi:type="Credit">
+    <date>2000-10-21T00:00:00-07:00</date>
+    <description>cash from mom</description>
+    <amount>100.44</amount>
+    <creditType>Cash</creditType>
+  </transaction>
+  <transaction xsi:type="Credit">
+    <date>2000-10-21T00:00:00-07:00</date>
+    <description>Wired moneys</description>
+    <amount>225.68</amount>
+    <creditType>MoneyOrder</creditType>
+  </transaction>
+</transactions>
